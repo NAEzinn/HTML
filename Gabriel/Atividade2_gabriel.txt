@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="'widht=device-width, initial-scale=1.0">
+        <title>Página sobre o Gabriel</title>
+
+    </head>
+<body>
+    <header>
+        <h1>Venha conhecer um pouco sobre mim</h1>
+    </header>
+    <main>
+        <p><h2>Um pouco sobre mim:</h2> </p>
+        <ul>
+            <!--Aqui temos topicos com gostos e preferencia do autor da página-->
+            <li>tenho 16 anos de idade;</li>
+            <li>Gosto muito de futebol e volei;</li>
+            <li>Meu time do coração é o São paulo;</li>
+            <li>Gosto muito de jogos, animes e musicas.</li>
+        </ul>
+        <!--Aqui temos a foto do autor da página-->
+        <img src="./gabrielfoto.png" alt="Foto do Gabriel">
+        <p><h3>Meus objetivos:</h3></p>
+        <ul>
+            <li>Busco conhecimento na área de Ti;</li>
+            <li>Busco um ramo profissional de interesse;</li>
+            <li>Pretendo fazer faculdade de Ti.</li>
+        </ul>
+        <p><h3>Minhas Características:</h3></p>
+        <ul>
+            <li>Sou criativo;</li>
+            <li>Sou Engraçado, bom eu acho que sou né;</li>
+            <li>Inteligente na medida do possível;</li>
+            <li>Indeciso em todos os momentos possíveis;</li>
+            <li>E sempre procuro ajudar pessoas ao redor.</li>
+        </ul>
+    </main>
+</body>
+</html>
